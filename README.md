@@ -22,3 +22,6 @@ https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q
 ### Udemyコース
 オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
 https://www.airs-lab.jp/lectures  
+
+本講座で使用する画像素材の一部は、以下のサイトから拝借しています。  
+https://pixabay.com/
