@@ -1,12 +1,21 @@
 # AIによる「物体検出」を学ぼう！【PyTorch+Colab】
 『AIによる「物体検出」を学ぼう！』は、人工知能（AI）を使った画像中の物体検出について学ぶ講座です。  
 フレームワークにPyTorchを使い、Google Colaboratory環境で画像中の物体を検出します。  
+  
+Section1. AIによる物体検出の概要  
+→ AIによる物体検出の概要、開発環境、CNNについて学びます。  
+  
+Section2. Faster R-CNNによるシンプルな物体検出  
+→ Faster R-CNNにより、物体検出をシンプルに実装します。  
+  
+Section3. SSD、RetinaNetによる物体検出  
+→ 高精度を発揮する実用的な物体検出技術、SSDおよびRetinaNetについて学びます。  
 
-Section1. AIによる物体検出の概要 https://youtu.be/iE5wKotBcJI  
-Section2. Faster R-CNNによるシンプルな物体検出 https://youtu.be/Jzhs52Sqn6U  
-Section3. SSD、RetinaNetによる物体検出 https://youtu.be/HQf9F1tKvW8  
-Section4. Transformerを利用した物体検出（DETR） https://youtu.be/_FA__z52Rmg  
-
+Section4. Transformerを利用した物体検出（DETR）  
+→ 「Transformer」が導入された物体検出技術、DETRについて解説します。  
+  
+Udemyコース: [AIによる「物体検出」を学ぼう！](https://www.udemy.com/course/ai-object-detection/?referralCode=FD973A3AC3BB7299A83F)
+  
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
 https://www.airs-lab.jp/  
